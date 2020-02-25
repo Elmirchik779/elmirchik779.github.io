@@ -1,0 +1,31 @@
+html {
+  font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  background-color: rgba(0, 95, 32, 0.466);
+}
+
+.wrapper {
+  max-width: 1020px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}
+
+/* ul {
+  list-style: none;
+} */
+
+a {
+  text-decoration: none;
+  color: #160abd;
+  line-height: 3rem;
+}
+
+a:hover,
+a:focus {
+  color: darkgreen;
+}
